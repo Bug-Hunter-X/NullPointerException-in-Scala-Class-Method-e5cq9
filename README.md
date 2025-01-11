@@ -1,0 +1,2 @@
+# NullPointerException in Scala Class Method
+This repository demonstrates a common error in Scala: a NullPointerException arising from improper handling of potentially null values. The `MyClass` example lacks null checks, leading to a crash when `x` is null.  The solution provides a corrected version with robust null handling.
